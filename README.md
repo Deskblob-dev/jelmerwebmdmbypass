@@ -1,3 +1,14 @@
+# disclaimer 
+Deskblob and JelmerWeb did NOT make this tool
+the original creator is Bart Lorang, original source code: [Link here]
+This project is cloned to make a site for the MDM bypass to make it easier 
+to bypass MDM on ipad, i do not earn any money off of this
+
+
+
+
+
+
 # SchoolTips
 
 A lightweight web proxy for school iPads. Bypasses MDM domain blocks by routing all traffic through one custom domain.
